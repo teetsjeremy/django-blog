@@ -20,7 +20,7 @@ constantly==15.1.0
 cookiecutter==1.6.0
 cryptography==2.1.4
 
-distro-info===0.18ubuntu0.18.04.1
+
 Django==1.11.24
 docker==4.1.0
 docutils==0.15.2
